@@ -1,4 +1,4 @@
 helloworld.bin
-oe-workdir/
-oe-logs/
+oe-workdir
+oe-logs
 
